@@ -1,4 +1,4 @@
-/* body {
+body {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -54,4 +54,4 @@ button.number {
 button.zero {
   grid-column: span 2;
   border-radius: 30px;
-} */
+}
