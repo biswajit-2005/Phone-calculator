@@ -3,9 +3,15 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: #111;
+  background: #f8f9fa;
   margin: 0;
   font-family: Arial, sans-serif;
+}
+.heading {
+  text-align: center;
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
 .calculator {
   width: 300px;
